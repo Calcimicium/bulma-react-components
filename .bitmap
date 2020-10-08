@@ -37,15 +37,15 @@
         "origin": "AUTHORED",
         "exported": false
     },
-    "colors": {
+    "color": {
         "files": [
             {
-                "relativePath": "src/color.ts",
+                "relativePath": "src/helpers/color.ts",
                 "test": false,
                 "name": "color.ts"
             }
         ],
-        "mainFile": "src/color.ts",
+        "mainFile": "src/helpers/color.ts",
         "origin": "AUTHORED",
         "exported": false
     },
@@ -64,12 +64,24 @@
     "size": {
         "files": [
             {
-                "relativePath": "src/size.ts",
+                "relativePath": "src/helpers/size.ts",
                 "test": false,
                 "name": "size.ts"
             }
         ],
-        "mainFile": "src/size.ts",
+        "mainFile": "src/helpers/size.ts",
+        "origin": "AUTHORED",
+        "exported": false
+    },
+    "state": {
+        "files": [
+            {
+                "relativePath": "src/helpers/state.ts",
+                "test": false,
+                "name": "state.ts"
+            }
+        ],
+        "mainFile": "src/helpers/state.ts",
         "origin": "AUTHORED",
         "exported": false
     },
