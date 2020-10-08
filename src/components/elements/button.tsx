@@ -18,6 +18,7 @@ namespace Button {
 		size?: Size
 		state?: State
 		static?: boolean
+		text?: boolean
 	}
 
 	export interface ButtonProps
@@ -55,6 +56,7 @@ export default class Button extends React.Component<Button.Props> {
 			"is-outlined": this.props.outlined,
 			"is-rounded": this.props.rounded,
 			"is-static": this.props.static,
+			"is-text": this.props.text,
 			[`is-${this.props.colorName}`]: !!this.props.colorName,
 			[`is-${this.props.size}`]: !!this.props.size,
 			[`is-${this.props.state}`]: !!this.props.state

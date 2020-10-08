@@ -61,7 +61,7 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "calcimicium.bulma-react-components/elements/button@0.1.1": {
+    "calcimicium.bulma-react-components/elements/button@0.2.0": {
         "files": [
             {
                 "relativePath": "src/components/elements/button.tsx",
