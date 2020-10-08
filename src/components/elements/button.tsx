@@ -1,8 +1,8 @@
 import cl from "classnames"
 import * as React from "react"
-import Color from "../helpers/color"
-import Size from "../helpers/size"
-import State from "../helpers/state"
+import Color from "../../helpers/color"
+import Size from "../../helpers/size"
+import State from "../../helpers/state"
 import "bulma/sass/elements/other.sass"
 
 namespace Button {

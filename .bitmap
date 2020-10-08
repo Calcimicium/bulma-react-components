@@ -16,48 +16,48 @@
     "elements/block": {
         "files": [
             {
-                "relativePath": "src/elements/block.tsx",
+                "relativePath": "src/components/elements/block.tsx",
                 "test": false,
                 "name": "block.tsx"
             }
         ],
-        "mainFile": "src/elements/block.tsx",
+        "mainFile": "src/components/elements/block.tsx",
         "origin": "AUTHORED",
         "exported": false
     },
     "elements/box": {
         "files": [
             {
-                "relativePath": "src/elements/box.tsx",
+                "relativePath": "src/components/elements/box.tsx",
                 "test": false,
                 "name": "box.tsx"
             }
         ],
-        "mainFile": "src/elements/box.tsx",
+        "mainFile": "src/components/elements/box.tsx",
         "origin": "AUTHORED",
         "exported": false
     },
     "elements/button": {
         "files": [
             {
-                "relativePath": "src/elements/button.tsx",
+                "relativePath": "src/components/elements/button.tsx",
                 "test": false,
                 "name": "button.tsx"
             }
         ],
-        "mainFile": "src/elements/button.tsx",
+        "mainFile": "src/components/elements/button.tsx",
         "origin": "AUTHORED",
         "exported": false
     },
     "layout/container": {
         "files": [
             {
-                "relativePath": "src/layout/container.tsx",
+                "relativePath": "src/components/layout/container.tsx",
                 "test": false,
                 "name": "container.tsx"
             }
         ],
-        "mainFile": "src/layout/container.tsx",
+        "mainFile": "src/components/layout/container.tsx",
         "origin": "AUTHORED",
         "exported": false
     },
