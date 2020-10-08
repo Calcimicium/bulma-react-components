@@ -3,7 +3,7 @@ import * as React from "react"
 import Color from "../../helpers/color"
 import Size from "../../helpers/size"
 import State from "../../helpers/state"
-import "bulma/sass/elements/other.sass"
+import "bulma/bulma.sass"
 
 namespace Button {
 	export interface BaseProps {

@@ -1,5 +1,5 @@
 import * as React from "react"
-import "bulma/sass/elements/other.sass"
+import "bulma/bulma.sass"
 
 namespace Block {
 	export type Props = React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>

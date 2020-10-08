@@ -1,9 +1,10 @@
 import * as React from "react"
-import "bulma/sass/elements/container.sass"
+import "bulma/bulma.sass"
 
 namespace Container {
 	export type Props = React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>
 }
+
 /**
  * The `container` is a simple utility element that allows you to
  * **center** content on larger viewports. It can be used in any context, but
